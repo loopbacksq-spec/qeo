@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # НАСТРОЙКИ
-RENDER_URL = "https://твой-субдомен.onrender.com"  # ЗАМЕНИ НА СВОЙ URL НА RENDER
+RENDER_URL = "https://qeo-w4xb.onrender.com"  # ЗАМЕНИ НА СВОЙ URL НА RENDER
 
 # Подключаемся к твоему уже открытому браузеру Chrome
 chrome_options = Options()
